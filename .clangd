@@ -1,0 +1,16 @@
+CompileFlags:
+  Add: 
+    - -I.
+    - -Iinclude
+    - -Iinclude/menu
+    - -Iinclude/menu/admin
+    - -Iinclude/menu/admin/actions
+    - -Iinclude/menu/user
+    - -Iinclude/menu/user/actions
+    - -Iinclude/models
+    - -Iinclude/services
+    - -Iinclude/utils
+    - -Isrc
+    - -std=c++14
+    - -D_WIN32
+    - -D_WIN64

@@ -1,0 +1,510 @@
+1002 BlueSky88
+Maria Santos
+15B Riverside Drive, Makati
+9189876543
+
+1003 CoffeeLove
+Robert Chen
+Block 5 Lot 12, Greenview Subd
+9225550101
+
+1004 P@ssword12
+Elena Rodriguez
+789 Dahlia St, Brgy. San Jose,
+9153334422
+
+1005 TechGuru_9
+Michael Thompson
+Apartment 4C, Sky Tower, Bonif
+9278881199
+
+1006 Moonlight0
+Sarah Villafuerte
+2201 Emerald Way, Ortigas Cent
+9067778811
+
+1007 Hunter_X
+David Miller
+12 Oak Street, Forbes Park, Da
+9192224455
+
+1008 Graceful_1
+Jessica Lee
+678 Serenity Lane, Nuvali, Lag
+9334445566
+
+1009 Falcon9_Fl
+Christopher Ng
+Unit 102, Heritage Condominium
+9176663322
+
+1010 DaisyChain
+Patricia Ramos
+456 Sunflower Court, Angeles C
+9201112233
+
+1011 OceanBreez
+William Garcia
+90 Sunset Boulevard, Lapu-Lapu
+9187779900
+
+1012 RedVelvet_
+Angela Torres
+143 Heart St, Baguio City, Ben
+9456667788
+
+1013 Matrix_Neo
+Joseph Lim
+33 Trinity Road, Eastwood City
+9289990011
+
+1014 SummerRain
+Michelle Tan
+88 Lucky Lane, Binondo, Manila
+9178887766
+
+1015 KnightRide
+Anthony Cruz
+55 Valero St, Salcedo Village,
+9165554433
+
+1016 StarGazer
+Elizabeth Wong
+19 Galaxy Avenue, Taguig City
+9273332211
+
+1017 IronMan_3k
+Richard Bautista
+72 Iron Street, Industrial Zon
+9059998877
+
+1018 WillowTree
+Linda Morales
+11 Willow Way, Alabang, Muntin
+9321110099
+
+1019 PixelPerfe
+Kevin Sy
+404 Digital Drive, Cyberzone, 
+9152223344
+
+2020 Sparkle_20
+Susan Pineda
+20 Glitz Road, Clark Freeport,
+9264445566
+
+1021 MountainHi
+Daniel Sison
+808 Peakview Terrace, Antipolo
+9087776655
+
+1022 S0ngBird_7
+Karen Ocampo
+24 Melody St, Vigan, Ilocos Su
+9171113333
+
+1023 ThunderBol
+Matthew Reyes
+10 Lightning Ridge, Batangas C
+9182224444
+
+1024 EmeraldCit
+Nancy Dizon
+31 Jewel St, Puerto Princesa, 
+9193335555
+
+1025 WolfPack
+Mark Suarez
+17 Alpha Lane, General Santos 
+9204446666
+
+1026 VioletRose
+Sandra Castro
+59 Gardenia Circle, Dumaguete 
+9215557777
+
+1027 SilverFox
+Steven Ortega
+12 Gray St, San Fernando, La U
+9226668888
+
+1028 GoldenSun
+Laura Mendoza
+99 Bright Horizon, Boracay Isl
+9237779999
+
+1029 MidnightOw
+Paul Enriquez
+22 Darkview Dr, Naga City, Bic
+9248880000
+
+1030 MorningDew
+Cynthia Salazar
+44 Fresh Start Way, Tagaytay C
+9259991111
+
+1031 UrbanLegen
+Andrew Lopez
+101 Skyscraper St, Makati City
+9260002222
+
+1032 RusticChar
+Donna Pascual
+77 Country Road, Bacolod City
+9271113333
+
+1033 FireStarte
+Thomas Guevara
+33 Blaze St, Olongapo City
+9282224444
+
+1034 WaterLily
+Rebecca Jacinto
+14 Stream Side, Iloilo City
+9293335555
+
+1035 EarthWalke
+Charles Medina
+25 Trailhead Dr, Legazpi City
+9304446666
+
+1036 WindChime
+Amy Navarro
+66 Breeze Ave, Cagayan de Oro 
+9315557777
+
+1037 NeonLights
+Peter Solidum
+88 Cyber Lane, Quezon City
+9326668888
+
+1038 VintageVib
+Lisa Atienza
+1960 Retro St, Marikina City
+9337779999
+
+1039 ModernArt
+George Belmonte
+55 Canvas Court, BGC, Taguig
+9348880000
+
+1040 ClassicSou
+Rachel Gosiengfiao
+12 Heritage Way, Malolos, Bula
+9359991111
+
+1041 BraveHeart
+Edward Delos Santos
+19 Freedom Blvd, Caloocan City
+9360002222
+
+1042 GentleSoul
+Margaret Evangelista
+8 Peace Lane, Ormoc City, Leyt
+9371113333
+
+1043 SilentNinj
+Frankie Chiu
+99 Hidden Path, Subic Bay
+9382224444
+
+1044 LoudN_Prou
+Gloria Macapagal
+21 Anthem Drive, San Juan City
+9393335555
+
+1045 SwiftRunne
+Henry Sy Jr
+5 Fastest Way, Pasay City
+9404446666
+
+1046 SlowSteady
+Irene Marcos
+10 Patience St, Laoag, Ilocos 
+9415557777
+
+1047 BrightIdea
+Jeffrey Cua
+88 Lightbulb Ave, Binondo, Man
+9426668888
+
+1048 DarkKnight
+Katherine Bernardo
+12 Shadow St, Katipunan, Quezo
+9437779999
+
+1049 WhiteTiger
+Louis Manzano
+3 Tiger Road, Butuan City
+9448880000
+
+1050 BlackSwan
+Martha Stewart
+5 Ballet Lane, Roxas City
+9459991111
+
+1051 RedDragon
+Oscar Dela Hoya
+88 Fire Dr, Koronadal City
+9460002222
+
+1052 BlueWhale
+Paula Abdul
+10 Deep Sea, Surigao City
+9471113333
+
+1053 GreenThumb
+Quentin Tarantino
+22 Garden Way, Kidapawan City
+9482224444
+
+1054 YellowBird
+Rita Avila
+15 Nesting St, Cotabato City
+9493335555
+
+1055 OrangeZest
+Samuel L. Jackson
+9 Citrus Ave, Valencia City, B
+9504446666
+
+1056 PurpleHaze
+Teresa Loyzaga
+77 Violet Way, Pagadian City
+9515557777
+
+1057 PinkPanthe
+Ulysses Grant
+11 Mystery Road, Digos City
+9526668888
+
+1058 BrownBear
+Victoria Beckham
+2 Wilderness Trail, Dipolog Ci
+9537779999
+
+1059 GrayWolf
+Walter White
+55 Desert Dr, Santiago City, I
+9548880000
+
+1060 SilverLini
+Xena Warrior
+1 Hope Street, Tuguegarao City
+9559991111
+
+1061 GoldenGate
+Yolanda Adams
+10 Bridge View, Tacloban City
+9560002222
+
+1062 DiamondGir
+Zane Grey
+9 Crystal Court, Calbayog City
+9571113333
+
+1063 RubyRose
+Arthur Pendragon
+12 Camelot St, Tanza, Cavite
+9582224444
+
+1064 SapphireSe
+Beatrice Webb
+33 Marina Dr, Nasugbu, Batanga
+9593335555
+
+1065 TopazTower
+Clarence Darrow
+88 High Rise, Rockwell, Makati
+9604446666
+
+1066 AmberAlert
+Diana Ross
+7 Warning Way, San Pedro, Lagu
+9615557777
+
+1067 PearlPure
+Ernest Hemingway
+5 Ocean Ave, Siargao Island
+9626668888
+
+1068 JadeJewel
+Florence Nightingale
+21 Healing St, Medical Center,
+9637779999
+
+1069 OnyxStone
+Gregory Peck
+10 Rock Road, Solid St, Valenz
+9648880000
+
+1070 OpalOcean
+Harriet Tubman
+15 Freedom St, Iriga City
+9659991111
+
+1071 QuartzCrys
+Isaac Newton
+9 Gravity Lane, Science City o
+9660002222
+
+1072 GarnetGlow
+Jane Austen
+11 Library Lane, Los Banos, La
+9671113333
+
+1073 AmethystAi
+Karl Marx
+20 Capital St, Dasmarinas, Cav
+9682224444
+
+1074 CitrineSun
+Louisa May Alcott
+4 Little Women St, Tanauan Cit
+9693335555
+
+1075 PeridotPar
+Mark Twain
+7 Riverboat Dr, Calapan City
+9704446666
+
+1076 Tourmaline
+Nathaniel Hawthorne
+12 Scarlet Letter Way, Sorsogo
+9715557777
+
+1077 Aquamarine
+Oliver Twist
+1 Orphanage Road, Masbate City
+9726668888
+
+1078 ZirconZone
+Philip K. Dick
+9 Android Dream Dr, Catbalogan
+9737779999
+
+1079 MoonstoneM
+Quincy Jones
+10 Jazz Ave, Maasin City
+9748880000
+
+1080 SunstoneSh
+Ralph Waldo Emerson
+3 Nature Trail, Malaybalay Cit
+9759991111
+
+1081 Bloodstone
+Sigmund Freud
+5 Dream State, El Nido, Palawa
+9760002222
+
+1082 LarimarLea
+Thomas Edison
+10 Invention Way, General Tria
+9771113333
+
+1083 KunziteKin
+Ursula K. Le Guin
+2 Earthsea Dr, Cauayan City
+9782224444
+
+1084 MorganiteM
+Virginia Woolf
+1 Lighthouse View, Tabuk City
+9793335555
+
+1085 SpinelSpar
+Walt Disney
+55 Animation Blvd, Biñan, Lag
+9804446666
+
+1086 IoliteIdea
+Xavier School
+1 Mutant Lane, San Juan City
+9815557777
+
+1087 JasperJoy
+Yusuf Islam
+10 Peace Train, Baybay City
+9826668888
+
+1088 KyaniteKey
+Zora Neale Hurston
+12 Folklore Dr, Tandag City
+9837779999
+
+1089 Lepidolite
+Abraham Lincoln
+16 Honest Way, Isabela City
+9848880000
+
+1090 MalachiteM
+Benjamin Franklin
+17 Benjamin Blvd, Bislig City
+9859991111
+
+1091 NephriteNi
+Calvin Coolidge
+3 Silent Way, Gingoog City
+9860002222
+
+1092 ObsidianOa
+Dwight Eisenhower
+5 General St, Lamitan City
+9871113333
+
+1093 PyritePowe
+Franklin Roosevelt
+4 Deal Road, Bayugan City
+9882224444
+
+1094 RhodoniteR
+George Washington
+1 Founding Father St, Borongan
+9893335555
+
+1095 SodaliteSk
+Herbert Hoover
+31 Dam Road, Victorias City
+9904446666
+
+1096 TigerEye_1
+John F. Kennedy
+35 Space Race Way, Passi City
+9915557777
+
+1097 UnakiteUni
+Lyndon B. Johnson
+63 Great Society Blvd, Sagay C
+9926668888
+
+1098 VarisciteV
+Millard Fillmore
+13 Unknown St, Talisay City
+9937779999
+
+1099 WavelliteW
+Neville Chamberlain
+10 Peace Time, Himamaylan City
+9948880000
+
+1100 ZoisiteZes
+Oscar Wilde
+1 Importance Way, Guihulngan C
+9959991111
+
+1001 puliran
+cmpj
+myaddress
+923984273984723
+
+1022 NewUser22
+John Doe
+123 New Street, City
+9123456789
+
+1100 Seller1100
+Jane Smith
+456 Old Road, Town
+9876543210
+
