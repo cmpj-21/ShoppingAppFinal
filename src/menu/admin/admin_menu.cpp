@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <string>
-#include <vector>
 
 AdminMenu::AdminMenu(ShoppingApp& app)
     : app_(app), actions_() {
