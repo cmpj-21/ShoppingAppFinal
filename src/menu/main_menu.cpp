@@ -68,9 +68,9 @@ void MainMenu::Show() {
             am.Show();
         } else if (choice == 4) {
             std::cout << "Exiting program. Saving data...\n";
-            app_.SaveUsersToFile("../data/Users.txt");
-            app_.SaveItemsToFile("../data/Items.txt");
-            app_.SaveTransactionsToFile("../data/Transactions.txt");
+            app_.SaveUsersToFile("../../data/Users.txt");
+            app_.SaveItemsToFile("../../data/Items.txt");
+            app_.SaveTransactionsToFile("../../data/Transactions.txt");
             break;
         } else {
             std::cout << "Unknown option. Try again.\n";

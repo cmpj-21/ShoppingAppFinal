@@ -1,16 +1,8 @@
 CompileFlags:
   Add: 
-    - -I.
-    - -Iinclude
-    - -Iinclude/menu
-    - -Iinclude/menu/admin
-    - -Iinclude/menu/admin/actions
-    - -Iinclude/menu/user
-    - -Iinclude/menu/user/actions
-    - -Iinclude/models
-    - -Iinclude/services
-    - -Iinclude/utils
-    - -Isrc
+    - -Ic:/Users/cmpj/dev/playground/ShoppingAppFinal/include
+    - -Ic:/Users/cmpj/dev/playground/ShoppingAppFinal/include/models
+    - -Ic:/Users/cmpj/dev/playground/ShoppingAppFinal/include/services
+    - -Ic:/Users/cmpj/dev/playground/ShoppingAppFinal/include/utils
+    - -Ic:/Users/cmpj/dev/playground/ShoppingAppFinal/include/menu
     - -std=c++14
-    - -D_WIN32
-    - -D_WIN64

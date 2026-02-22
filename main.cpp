@@ -38,9 +38,9 @@ int main() {
 
     ShoppingApp app;
 
-    std::string usersPath = "../data/Users.txt";
-    std::string itemsPath = "../data/Items.txt";
-    std::string transactionsPath = "../data/Transactions.txt";
+    std::string usersPath = "data/Users.txt";
+    std::string itemsPath = "data/Items.txt";
+    std::string transactionsPath = "data/Transactions.txt";
 
     bool ok;
 
