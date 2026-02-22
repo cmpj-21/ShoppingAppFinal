@@ -221,7 +221,7 @@ A simple, student-decided text format. The implementation uses lines with cart i
 <productID> <sellerID> <quantity> <unitPrice> <itemName...>
 ```
 
-If you want `.txt` instead of `.bag`, change the file extension where the cart path is constructed (see configuration points below).
+The cart files use the `.bag` extension by default. If you want `.txt` instead, change the file extension where the cart path is constructed (see configuration points below).
 
 ---
 

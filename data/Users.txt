@@ -503,8 +503,3 @@ John Doe
 123 New Street, City
 9123456789
 
-1100 Seller1100
-Jane Smith
-456 Old Road, Town
-9876543210
-
